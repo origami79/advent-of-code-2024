@@ -8,4 +8,4 @@ function parseInput(day, file) {
   return string
 }
 
-parsedInput = parseInput(3, 'input')
+parsedInput = parseInput(3, 'input-test')
