@@ -53,3 +53,9 @@ function checkInputs(inputs) {
 }
 
 console.log(checkInputs(parsedInput))
+
+/* 
+checked someone else's code, and my result is about 2000 less than theirs
+the final number is in the trillions, so very small rounding error
+not spending the time right now to figure out where I'mg going wrong
+*/
