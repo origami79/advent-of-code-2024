@@ -1,5 +1,3 @@
-const { dir } = require('console');
-
 function parseInput(day, file) {
   const fs = require('fs');
   
