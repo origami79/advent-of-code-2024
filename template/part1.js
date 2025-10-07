@@ -1,5 +1,3 @@
-let parsedInput = []
-
 function parseInput(day, file) {
   const fs = require('fs');
   
